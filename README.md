@@ -18,8 +18,15 @@ Sources of Data:
 ## Potential
 Identifying Risk Factors:
 * By analyzing the correlations between cholesterol levels, diabetes, smoking, and age with heart attack cases, researchers can better understand the key factors contributing to heart attacks in males.
+
 Early Intervention and Prevention Strategies:
 * Insights from this dataset can guide healthcare providers in developing targeted interventions for individuals at high risk.
+
+Training Predictive Models:
+* The data can be used to build machine learning models that predict the likelihood of a heart attack based on patient metrics.
+
+Feature Importance Analysis:
+* Understanding which factors (e.g., cholesterol, smoking) have the highest weight in heart attack prediction.
 
 
 
