@@ -8,7 +8,7 @@ This repository contains data about heart attacks in males along with their chol
 
 ## Provenance
 Sources of Data:
-- [Walkability Index](https://catalog.data.gov/dataset/walkability-index7)
+- [Heart Attack Data](https://catalog.data.gov/dataset/walkability-index7)
 
 ## Potential
 What can this be used for?
