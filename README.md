@@ -13,4 +13,9 @@ Sources of Data:
 ## Potential
 What can this be used for?
 
+## Contents and source
+* The repository contains 1 [python notebook](https://github.com/aryanch917/HeartAttackENGL105/tree/main), covering how to create a subset of heart attack data from a raw '.csv' file using Python3.
+
+
+
 
