@@ -31,6 +31,8 @@ Training Predictive Models:
 Feature Importance Analysis:
 * Understanding which factors (e.g., cholesterol, smoking) have the highest weight in heart attack prediction.
 
+## Acknowledgements
+This repository was created for Professor Steven Gotzler's ENGL105 class as a final unit project for working with the Natural Sciences
 
 
 
