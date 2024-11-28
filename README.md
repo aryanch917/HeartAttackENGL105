@@ -1,4 +1,4 @@
-# Heart Attack Data ENGL105 Project
+# Factors which Correlate with Heart Attacks in Males
 
 This repository contains data about heart attacks in males along with their cholesterol levels, diabetes status, smoking status, and their age.
 * This repository contains raw data about factors which correlate heart attacks
