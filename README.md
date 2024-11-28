@@ -17,7 +17,7 @@ This repository contains data about heart attacks in males along with their chol
 Sources of Data:
 - [Heart Attack Data](https://www.kaggle.com/datasets/waqi786/heart-attack-dataset?phase=FinishSSORegistration&returnUrl=/datasets/waqi786/heart-attack-dataset/versions/1?resource=download&SSORegistrationToken=CfDJ8GrUjsAKvhxNhvm67MmtKLlgjZbsO35e3qqxjNcEWbRr9oXZI-5VXLfdiZ__f01TxOdpMbzT1C2g_3JDbSj2CD6FXIaB0Lu1t4AVR_TKMO3BhhSeV5cxa76WkI5xMQaVKQFM2enz4B7d76CIe7PVWqkdBFdyYdVmryR6xHK6RIW5Mc0ZP-J8b8KHuStu-yhCfQnGgIktaR6Bzy3GORqu5ut0WENmuWvKWhHMe_lcfsfsfXSh0VAw8kw5vi5aqj4Lw8g51jhxuZ35aF5MkLk_6fjDSjmfNfinHXzw2CSzTexZd8NOCkmhLQSMtSJnXwfMnYW5hXvtW2CilvG-jv8OL18&DisplayName=Aryan%20C)
 
-- The data comes from Kaggle, a website used for sharing and using public data for data scientists to work with and learn about.
+- The data comes from Kaggle, a website used for sharing and using public data for data scientists to work with and learn about. Since the data comes from Kaggle(public), no licensing is needed
 
 ## Potential
 Identifying Risk Factors:
