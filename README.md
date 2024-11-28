@@ -31,7 +31,7 @@ Training Predictive Models:
 Feature Importance Analysis:
 * Understanding which factors (e.g., cholesterol, smoking) have the highest weight in heart attack prediction.
 
-#Visualization
+##Visualization
 
 Below are sample visualizations from the Python Notebook. These are possibilites that users can create with this repository.
 ![image](https://github.com/user-attachments/assets/b78626c2-edf1-48a4-9d09-ca4adc94f9e3)
