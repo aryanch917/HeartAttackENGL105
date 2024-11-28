@@ -1,6 +1,6 @@
 # Heart Attack Data ENGL105 Project
 
-This repository contains data about heart attacks in males along with their cholesterol levels, diabetes and smoking status, and their age.
+This repository contains data about heart attacks in males along with their cholesterol levels, diabetes status, smoking status, and their age.
 
 ## Purpose
 * The purpose of this dataset is for users to learn more about how specific factors can impact men's health and potentially lead to heart attack cases.
