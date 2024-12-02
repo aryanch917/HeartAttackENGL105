@@ -8,7 +8,7 @@ This repository contains data about heart attacks in males along with their chol
 * Scientists can use this data to learn more about how heart attack data works and factors which correlate to increase in heart attack cases.
 
 ## Contents and source
-* The repository contains 1 [python notebook]([https://github.com/aryanch917/HeartAttackENGL105/tree/main](https://github.com/aryanch917/HeartAttackENGL105/blob/main/analysis/Feeder3_1.ipynb), covering how to create a subset of heart attack data from a raw '.csv' file using Python3.
+* The repository contains 1 [python notebook](https://github.com/aryanch917/HeartAttackENGL105/blob/main/analysis/Feeder3_1.ipynb), covering how to create a subset of heart attack data from a raw '.csv' file using Python3.
 * It also contains a folder which houses the [raw data](https://github.com/aryanch917/HeartAttackENGL105/blob/main/data/heart_attack_dataset.csv)
 
 
